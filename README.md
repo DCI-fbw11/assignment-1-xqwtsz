@@ -1,3 +1,5 @@
 # Assignment-1
+html exercise
 
-html assignment
+
+Please find a mock-up  in image folder and recreate this web page. pay attention to style attribute
