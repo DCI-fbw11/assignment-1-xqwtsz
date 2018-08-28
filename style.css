@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+  }
+  
+  table, td, tr, th {
+    border: 1px solid lightgrey;
+    border-collapse: collapse;
+  }
+  
+  td {
+    height: 30px;
+  }
+  
+  th {
+    text-align: left;
+    height: 30px;
+  }
+  
+  tr:nth-child(odd) td:nth-child(even),
+  tr:nth-child(even) td:nth-child(odd) {
+    
+    background-color: #000;
+    color: white;
+  }
